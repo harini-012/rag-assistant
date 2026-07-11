@@ -1,0 +1,82 @@
+[
+    {
+        "topic": "Java",
+        "content": "Java is a high-level, object-oriented programming language developed by Sun Microsystems. It follows the principle of Write Once, Run Anywhere because Java programs run on the Java Virtual Machine (JVM)."
+    },
+    {
+        "topic": "Class",
+        "content": "A class is a blueprint or template used to create objects. It defines the properties (variables) and behaviors (methods) that objects will have."
+    },
+    {
+        "topic": "Object",
+        "content": "An object is an instance of a class. Objects contain data and methods that operate on the data."
+    },
+    {
+        "topic": "Inheritance",
+        "content": "Inheritance is an object-oriented programming concept that allows one class to acquire the properties and methods of another class. It promotes code reusability."
+    },
+    {
+        "topic": "Polymorphism",
+        "content": "Polymorphism allows one interface to have multiple implementations. It enables the same method to behave differently depending on the object."
+    },
+    {
+        "topic": "Encapsulation",
+        "content": "Encapsulation is the process of wrapping data and methods together into a single unit and restricting direct access using access modifiers like private."
+    },
+    {
+        "topic": "Abstraction",
+        "content": "Abstraction hides unnecessary implementation details and exposes only the essential features to the user."
+    },
+    {
+        "topic": "DBMS",
+        "content": "A Database Management System (DBMS) is software that allows users to create, manage, store, retrieve, and manipulate data efficiently."
+    },
+    {
+        "topic": "Normalization",
+        "content": "Normalization is the process of organizing data in a database to reduce redundancy and improve data integrity."
+    },
+    {
+        "topic": "SQL",
+        "content": "SQL stands for Structured Query Language. It is used to create, retrieve, update, and delete data stored in relational databases."
+    },
+    {
+        "topic": "Operating System",
+        "content": "An Operating System (OS) is system software that manages computer hardware, software resources, memory, files, and processes."
+    },
+    {
+        "topic": "Deadlock",
+        "content": "Deadlock is a condition where two or more processes wait indefinitely for resources held by each other, preventing execution."
+    },
+    {
+        "topic": "Semaphore",
+        "content": "A semaphore is a synchronization mechanism used to control access to shared resources in concurrent programming."
+    },
+    {
+        "topic": "Computer Networks",
+        "content": "A computer network is a collection of interconnected devices that communicate and share resources using communication protocols."
+    },
+    {
+        "topic": "TCP",
+        "content": "TCP (Transmission Control Protocol) is a reliable, connection-oriented communication protocol that ensures error-free data delivery."
+    },
+    {
+        "topic": "IP",
+        "content": "IP (Internet Protocol) is responsible for addressing and routing packets between devices on a network."
+    },
+    {
+        "topic": "Artificial Intelligence",
+        "content": "Artificial Intelligence (AI) is the simulation of human intelligence by machines, enabling them to learn, reason, solve problems, and make decisions."
+    },
+    {
+        "topic": "Machine Learning",
+        "content": "Machine Learning is a branch of Artificial Intelligence where computers learn patterns from data and improve their performance without being explicitly programmed."
+    },
+    {
+        "topic": "Deep Learning",
+        "content": "Deep Learning is a subset of Machine Learning that uses artificial neural networks with multiple hidden layers to learn complex patterns."
+    },
+    {
+        "topic": "RAG",
+        "content": "Retrieval-Augmented Generation (RAG) combines information retrieval with Large Language Models. It retrieves relevant documents and includes them in the prompt before generating an answer."
+    }
+]
